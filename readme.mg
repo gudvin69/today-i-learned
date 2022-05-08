@@ -38,3 +38,6 @@ git rebase "" from main* u can relocate the main to ""
  
 * HEAD shows where are u now point where are u 
 * git merge "connect different branches"
+
+##finished git-module-3
+

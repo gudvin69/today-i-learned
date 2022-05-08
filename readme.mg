@@ -27,3 +27,14 @@ git rebase "" from main* u can relocate the main to ""
 * cat commend which connect some firectories and u can see what is inside 
 
 
+* touch "create smth" in derictory exmpl touch readme.txt
+* mkdir "create direktory" 
+*cp "copy" 
+* mv "move directory, txt..."
+* cut "
+
+## 07.05.2022 Toronto ON
+ #https://git-school.github.io/visualizing-git/ "git practice"
+ 
+* HEAD shows where are u now point where are u 
+* git merge "connect different branches"
